@@ -1,6 +1,6 @@
 Hi I'm Jeremy!
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=migmoog&show_icons=true&locale=en&layout=compact&theme=monokai" alt="ovi" />
 
 I'm a computer nerd by heart. I've made lots of projects with code from video games to webapps.
 I like to enhance workflows for users of open source of software. Particularly projects like [**Neovim**](https://github.com/neovim/neovim) and [**Godot**](https://github.com/godotengine/godot).
