@@ -7,4 +7,4 @@ I like to enhance workflows for users of open source of software. Particularly p
 
 Projects that I'm particularly proud of are:
  - [*aoc.nvim*](https://github.com/migmoog/aoc.nvim): A neovim plugin for people doing the adventofcode challenge. It gives you the ability to focus purely on making your solutions without having to leave the editor!
- - *Vimdow*: A Godot plugin that acts as a client for neovim. Gives users the power of their neovim config right inside of the Godot Engine editor. 
+ - [*Vimdow*](https://github.com/migmoog/vimdow): A Godot plugin that acts as a client for neovim. Gives users the power of their neovim config right inside of the Godot Engine editor. 
